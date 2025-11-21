@@ -15,6 +15,7 @@ This repository contains a full Power BI analysis of Ziban Bank’s Finance, HR,
 - [Conclusion](#conclusion)
 - [Recommendations](#recommendations)
 - [Interactive Dashboard](#interactive-dashboard)
+- [Repository File Structure](#respository-file-structure)
 
 ---
 
