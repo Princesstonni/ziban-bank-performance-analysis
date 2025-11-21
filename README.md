@@ -125,16 +125,16 @@ Four dashboards were created:
 ## Dashboard Snapshots
 
 ### Executive Overview  
-![Executive Dashboard](ZB Executive.png)
+![Executive Dashboard](ZB_Executive.png)
 
 ### Finance Dashboard  
-![Finance Dashboard](ZB Finance.png)
+![Finance Dashboard](ZB_Finance.png)
 
 ### HR Dashboard  
-![HR Dashboard](ZB HR.png)
+![HR Dashboard](ZB_HR.png)
 
 ### Marketing Dashboard  
-![Marketing Dashboard](ZB MKT.png)
+![Marketing Dashboard](ZB_MKT.png)
 
 ---
 
@@ -166,5 +166,26 @@ You can view the live interactive dashboard using the link below:
 
 *Published Power BI Dashboard:*  
 [Click to View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjkyNDlkNmMtMWU5Zi00M2RiLWJhYzUtYWQ0M2E2MGE5MWY4IiwidCI6ImMyYjE1OGJkLTZkMTItNDQzZC1iYTUwLTM1NTUzYjE4N2UyNSJ9)
+
+
+## Respository File Structure
+ziban-bank-performance-analysis/
+│
+├── README.md
+│
+
+├── images/
+│   ├── ZB_Executive.png
+│   ├── ZB_Finance.png
+│   ├── ZB_HR.png
+│   └── ZB_MKT.png
+│
+
+├── pbix/
+│   └── Ziban_Bank_Capstone_Project.pbix   
+│
+
+└── docs/
+    └── Ziban_Bank_Performance_Report.pdf   
 
 ---
